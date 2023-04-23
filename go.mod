@@ -1,4 +1,4 @@
-module github.com/superstackhq/common
+module github.com/superstackhq/commons
 
 go 1.20
 
